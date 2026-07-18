@@ -8,4 +8,4 @@ A CLI tool that allows your linux machine to broadcast its own WLAN while also c
 NOTE
 ----
 Repeater's functionality is highly dependent on the hardware support and capabilities of the wireless card driver.
-For the desired and intended functionality the machine in use wireless card's must support both AP (access point) mode and 
+For the desired and intended functionality the machine in use wireless card's must support both AP (access point) mode and wireless client simultaneously.
