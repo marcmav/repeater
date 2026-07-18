@@ -1,8 +1,11 @@
-## Repeater
+========
+Repeater
+========
 
 A CLI tool that allows your linux machine to broadcast its own WLAN while connected to another Wi-Fi network giving you the hability to basically use your home computer as an additional access point and essentially creating a Wi-Fi repeater and increase your home Wi-Fi range.
 
-</br>
-
+-----
 Note:
-> Repeater's functionality is highly dependent on the hardware support and capabilities of the wireless card driver.
+-----
+
+Repeater's functionality is highly dependent on the hardware support and capabilities of the wireless card driver.
